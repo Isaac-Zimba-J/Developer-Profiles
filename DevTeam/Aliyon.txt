@@ -1,19 +1,37 @@
-🚀 About Me
-I am a passionate developer and UI/UX designer with a knack for creating seamless user experiences and efficient code. 
-With a strong background in both front-end and back-end development. 
-I thrive on building full-stack applications that are both functional and visually appealing.
+Developer Profile
+1. Personal Information
+Name: Aliyon Tembo
+Email: temboaliyon@gmail.com
+GitHub Username: aliyon-dev
+LinkedIn Profile: https://www.linkedin.com/in/aliyon/
 
-💻 Tech Stack ##
-Languages: Python, JavaScript
-Frameworks/Libraries: React, Node.js, Django, Flask
-Design Tools: Figma, Sketch, Adobe XD
-Databases: MySQL, PostgreSQL, MongoDB
-Others: Git, Docker, AWS, Firebase
 
-🌟 Skills ##
-Front-End Development: Creating responsive and interactive web interfaces using React and other modern JavaScript frameworks.
-Back-End Development: Building robust and scalable server-side applications with Python and JavaScript.
-UI/UX Design: Designing user-centered interfaces that are intuitive and aesthetically pleasing.
-Database Management: Implementing and managing databases to ensure data integrity and performance.
-Version Control: Proficient in Git for efficient project management and collaboration.
 
+
+2. Current Level of Competence
+Experience Level: Intermediate 
+Years of Experience: 3
+Previous Projects: Sankapo, Care365, SwiftGuard, TerraSense
+
+
+3. Skills and Expertise
+Programming Languages: Python, JavaScript
+Frameworks and Libraries: Django, Django rest_framework, Express js
+Areas of Expertise: backend development
+
+
+4. Interests and Learning Goals
+What You Wish to Learn: Machine Learning 
+Areas of Interest: Artificial Intelligence
+Learning Resources: Online courses
+
+
+5. Expectations from the Company and Startup
+Professional Growth: Learn how to navigate different Languages and frameworks, specifically c# and .net framework
+Team Collaboration: I will obviously come in and help out in any way possible, especially where my specialty lies
+Long-term Goals: Develop software that fits the industry needs and makes our lives easy
+
+6. Personal Details
+Hobbies and Interests: I like gardening, gaming, boxing, and hitting the gym
+Preferred Work Environment: Thrive in an Environment where communication is key and understanding that we're humans we can fuck up.
+Availability: [freelance]
