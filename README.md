@@ -10,7 +10,6 @@ Welcome to the Developer Profiles project! This repository is intended to help y
    git clone https://github.com/Isaac-Zimba-J/ProjectTrial.git
    ```
 
-
 2. **Create a New Branch:** Create a new branch with your name.
    ```
    git checkout -b [your-name-branch]
@@ -48,3 +47,18 @@ Welcome to the Developer Profiles project! This repository is intended to help y
 
    Click on the "Merge pull request" button.
    Confirm the merge by clicking on the "Confirm merge" button.
+
+## IMPORTANT NOTE
+
+# Pull Request Template
+
+To ensure that all pull requests are consistent and provide the necessary information, we use a pull request template. When you create a new pull request, the template will automatically populate the description field with the following information:
+
+1. **Description** - A summary of the changes and the related issue.
+2. **What does this PR do?** - A brief description of the changes made.
+3. **What issue does this PR address?** - Link to the issue this PR resolves, if applicable.
+4. **Testing Instructions** - How to test the changes, including any relevant steps or commands.
+5. **Screenshots** - Optional section for screenshots of the changes.
+6. **Additional Notes** - Any extra context or notes about the PR.
+
+Please make sure to fill out all sections of the template when creating a pull request. This helps maintain clarity and consistency in the contributions to the repository.
