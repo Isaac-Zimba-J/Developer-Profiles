@@ -15,7 +15,7 @@ Welcome to the Developer Profiles project! This repository is intended to help y
    ```
    git checkout -b [your-name-branch]
    ```
-3. **Create Your Profile:** In the developers folder, create a new file named `[your-github-username].md` and fill it with the Profile template provided.
+3. **Create Your Profile:** In the developers folder, create a new file named `[your-github-username].md` and fill it with the Profile `template profile.md` provided.
 
 4. **Commit Your Changes:** Commit your changes with a meaningful commit
 
