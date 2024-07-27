@@ -7,12 +7,11 @@ Welcome to the Developer Profiles project! This repository is intended to help y
 1. **Clone the Repository:** Clone the repository to your local machine.
 
    ```
-   git clone [repository-url]
+   git clone https://github.com/Isaac-Zimba-J/ProjectTrial.git
    ```
 
-   Create a New Branch: Create a new branch with your name.
 
-2. **Copy code:** Create a new branch with your name.
+2. **Create a New Branch:** Create a new branch with your name.
    ```
    git checkout -b [your-name-branch]
    ```
