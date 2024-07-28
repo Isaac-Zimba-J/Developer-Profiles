@@ -17,7 +17,7 @@
 
 - **Programming Languages:** C++, C
 - **Frameworks and Libraries:** .NET MAUI
-- **Areas of Expertise:** backend development, database management
+- **Areas of Expertise:** backend development, database management (MySQL)
 
 #### 4. Interests and Learning Goals
 
