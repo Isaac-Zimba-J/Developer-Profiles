@@ -1,0 +1,38 @@
+### Developer Profile
+
+#### 1. Personal Information
+
+- **Name:** Songiso Moono
+- **Email:** moonosongiso386@gmail.com
+- **GitHub Username:** ORISIS-03
+- **LinkedIn Profile:**(https://linkedin.com/in/songiso-moono-098273206)
+
+#### 2. Current Level of Competence
+
+- **Experience Level:** Beginner
+- **Years of Experience:** 1
+- **Previous Projects:** None
+
+#### 3. Skills and Expertise
+
+- **Programming Languages:** C#, JavaScript, C/C++
+- **Frameworks and Libraries:** Blazor, React, Django
+- **Areas of Expertise:** Frontend development, backend development, database management
+
+#### 4. Interests and Learning Goals
+
+- **What You Wish to Learn:** Advanced Blazor techniques, cloud computing, Machine learning, Data science, Blockchain
+- **Areas of Interest:** Web development, machine learning
+- **Learning Resources:** Online courses, tech blogs, coding challenges
+
+#### 5. Expectations from the Company and Startup
+
+- **Professional Growth:** Gain experience in project management, improve coding skills
+- **Team Collaboration:** Contribute to team projects, share knowledge, help others
+- **Long-term Goals:** Become a full-stack developer, lead a development team
+
+#### 6. Personal Details
+
+- **Hobbies and Interests:** Reading, poetry, playing chess
+- **Preferred Work Environment:** Collaborative and innovative
+- **Availability:** Full-time
