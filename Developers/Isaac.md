@@ -35,4 +35,4 @@
 
 - **Hobbies and Interests:** Reading, listening to music, Playing table tennis, spending time with loved ones
 - **Preferred Work Environment:** Collaborative and innovative
-- **Availability:** Full-time
+- **Availability:** Full-time/Part-time
