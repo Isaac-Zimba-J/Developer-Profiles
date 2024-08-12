@@ -2,20 +2,20 @@
 
 #### 1. Personal Information
 
-- **Name:** John Doe
-- **Email:** john.doe@example.com
-- **GitHub Username:** johndoe
-- **LinkedIn Profile:** [linkedin.com/in/johndoe](https://linkedin.com/in/johndoe)
+- **Name:** Raymose Banda
+- **Email:** raymosebanda@gmail.com
+- **GitHub Username:** vibrantCoder18
+- **LinkedIn Profile:** [linkedin.com/in/RaymoseBanda](https://www.linkedin.com/in/raymose-banda-529634276)
 
 #### 2. Current Level of Competence
 
 - **Experience Level:** Intermediate
-- **Years of Experience:** 3
-- **Previous Projects:** Developed a task management app, contributed to open-source projects.
+- **Years of Experience:** 2
+- **Previous Projects:** Developed a database management app, file system in , Ccontributed to open-source projects.
 
 #### 3. Skills and Expertise
 
-- **Programming Languages:** C#, JavaScript, Python
+- **Programming Languages:** C#, C++, javaScript
 - **Frameworks and Libraries:** Blazor, React, Django
 - **Areas of Expertise:** Frontend development, backend development, database management
 
@@ -33,6 +33,6 @@
 
 #### 6. Personal Details
 
-- **Hobbies and Interests:** Reading, hiking, playing chess
+- **Hobbies and Interests:** Reading, hiking, watching anime
 - **Preferred Work Environment:** Collaborative and innovative
 - **Availability:** Full-time
